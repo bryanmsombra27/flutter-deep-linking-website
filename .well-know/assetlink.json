@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bryanochoa.miscelanous",
+      "sha256_cert_fingerprints": [
+        "4F:24:BE:79:96:A9:50:E3:18:4D:B4:BF:0C:8F:39:C5:38:BE:F4:2D:73:29:48:9B:88:27:17:98:DC:8B:A1:E0"
+      ]
+    }
+  }
+]
